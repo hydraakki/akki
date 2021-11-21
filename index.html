@@ -1,4 +1,26 @@
-<html>
-<h1> Akhilesh Pandey Hu Main</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title><?php echo $name;?></title>
+</head>
 
+<body style="background-color:powderblue;">
+
+<form action="" method="get">
+<center>Name: <input type="text" style="font-size:16pt;" name="song"></center>
+<center><input type="checkbox" id="download" name="download" value="true">
+<label for="download">Direct download</label><br></center><br>
+<center><input type="submit" style="font-size:15px;" ></center>
+</form>
+
+<h2><center><?php echo $name;?></center></h2>
+<center><img src="<?php echo $image;?>" alt="Image" width="400" height="400"></center>
+
+<center><audio controls>
+ <source src="<?php echo $final; ?>" type="audio/mp4">
+</audio>
+</center>
+</body>
 </html>
