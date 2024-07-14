@@ -8,10 +8,8 @@ I'm excited to be starting my web development journey!
 - HTML
 - CSS
 - JavaScript
-- [Any other technologies you're exploring]
+- Cybersecurity Fundamental
+- Data Structure and Algorithms...
+- C++, Python
 
-## 💬 Let's Connect
-Feel free to reach out or follow my progress!
 
-- [Your Twitter/LinkedIn/GitHub Profile]
-- [Your personal website or portfolio if you have one]
